@@ -1,0 +1,169 @@
+h1{
+	font-family: Copperplate Gothic ;
+	color: #00ccff;
+	text-align: center;
+}
+#intestazione p{
+	font-family: Garamond;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #000066;
+    background-color: transparent; 
+    text-align: center;
+}
+
+.carousel h5, .carousel p {
+	font-size: 1.5rem;
+	color: #ffffff
+}
+
+.carousel {
+	height: 400px;
+	width: 500px;
+	min-height: 400px;
+	min-width: 500px;
+	margin: 0px auto;
+}
+
+#collage img {
+	height: 300px;
+	width: 500px;
+	display: block;
+	margin: 0px auto;
+}
+#colophon {
+	background-color: #ccffff;
+
+}
+h2 {
+	text-align: center;
+}
+#Thailandia img, #Thailandia h3 {
+	height: 300px;
+	width: 500px;
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+}
+
+#Bali img, #Bali h4{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+}
+
+#Cuba img, #Cuba h5 {
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+}
+#Thailandia p{
+	font-family: Dejavu Sans;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #042a63;
+    text-align: center;
+    padding: 10%;
+}
+h3{
+	color: #042a63;
+	font-family: Century Gothic;
+	height: 20%!important;
+}
+#Bali p{
+	font-family: Dejavu Sans;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #3300ff;
+    text-align: center;
+    padding: 10%;
+}
+#Cuba p{
+	font-family: Dejavu Sans;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #ccffff;
+    text-align: center;
+    padding: 10%;
+}
+h4 {
+	color: #3300ff;
+	font-family: Century Gothic;
+}
+h5 {
+	color: #ccffff;
+	font-family: Century Gothic;
+}
+
+#jessy p {
+	font-family: Garamond;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #ccffff;
+    background-color: transparent;
+}
+
+main .screen {
+	max-height: 4000px;
+	background-image: url(sfondo.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#jessy img {
+	height: 300px;
+	width: 350px;
+    display: block;
+	margin: 0px auto;
+}
+#jessy p{
+	text-align: center;
+}
+main .destinazioni {
+	background-image: url(sfondo1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: block;
+	margin: 0px auto;
+}
+h6 {
+   position: relative;
+   text-align: right;
+   font-family: Century Gothic;
+}
+#video1 p, #video1 iframe{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	font-family: Garamond;
+	font-size: 2.5em;
+	background-color: #99ccff;
+	color: white;
+}
+#video2 p, #video2 iframe{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	font-family: Garamond;
+	font-size: 2.5em;
+	background-color: #99ccff;
+	color: white;
+}
+#video3 p, #video3 iframe{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	font-family: Garamond;
+	font-size: 2.5em;
+	background-color: #99ccff;
+	color: white;
+}
+
+#fine p {
+	text-align: center;
+	font-family: Garamond;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #000066;
+    background-color: #99ccff;
+}
